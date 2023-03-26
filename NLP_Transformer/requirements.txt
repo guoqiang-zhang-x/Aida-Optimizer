@@ -1,0 +1,10 @@
+dill==0.3.3
+msgpack-numpy==0.4.7.1
+msgpack-python==1.0.2
+python==3.6.12
+pytorch==1.10.1
+spacy==2.3.4
+tensorboard==2.6.0
+tensorflow==2.6.0
+terminado==0.8.3
+tqdm==4.62.3
